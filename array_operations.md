@@ -95,3 +95,6 @@ int main() {
 
     return 0;
 }
+<img width="303" height="262" alt="Screenshot 2025-11-02 at 11 36 15 PM" src="https://github.com/user-attachments/assets/108efdf9-16f5-4ea5-904a-12ec55882585" />
+<img width="303" height="192" alt="Screenshot 2025-11-02 at 11 36 49 PM" src="https://github.com/user-attachments/assets/20abd759-ce68-4374-aac8-c93860ab1c6d" />
+<img width="303" height="209" alt="Screenshot 2025-11-02 at 11 37 13 PM" src="https://github.com/user-attachments/assets/7dacf568-1718-4f65-9ec7-00fa606ab14a" />
