@@ -96,3 +96,10 @@ int main() {
     return 0;
 }
 
+
+## Sample Output (Screenshot)
+Below is the actual output screenshot from my program:
+
+<img width="303" height="262" alt="Screenshot 2025-11-02 at 11 36 15 PM" src="https://github.com/user-attachments/assets/495ae96e-0034-4ced-8ae2-02ba5e42ade6" />
+<img width="303" height="192" alt="Screenshot 2025-11-02 at 11 36 49 PM" src="https://github.com/user-attachments/assets/21d6aecb-d4a0-4011-8906-ad7182312ece" />
+<img width="303" height="209" alt="Screenshot 2025-11-02 at 11 37 13 PM" src="https://github.com/user-attachments/assets/c2143e07-8107-4b33-8f2c-77e06a54c725" />
